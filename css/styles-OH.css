@@ -1,3 +1,19 @@
 body {
-  background-color: cyan;
+  background-color: #fffeef;
+}
+
+h1 {
+  text-align: center;
+  color: green;
+  font-family: cursive;
+}
+
+ul {
+  text-align: left;
+  color: blue;
+  font-family: cursive;
+}
+
+a:hover {
+  background-color: green;
 }
