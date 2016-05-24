@@ -1,12 +1,16 @@
+body {
+  background-color: #fffeef;
+}
+
 h1 {
   text-align: center;
-  color: blue;
+  color: green;
   font-family: cursive;
 }
 
 ul {
   text-align: left;
-  color: red;
+  color: blue;
   font-family: cursive;
 }
 
